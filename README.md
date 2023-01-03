@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **lisanle31@gmail.com**
 
