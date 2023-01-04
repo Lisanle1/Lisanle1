@@ -1,6 +1,6 @@
 ![MasterHead](https://i.ibb.co/9GBm5dL/banner.png)
 <h1 align="center">Hi 👋, I'm Lisan M</h1>
-<h3 align="center">A passionate Full Stack Developer(MERN) from India</h3>
+<h3 align="center">A passionate Full Stack Developer <strong>MERN</strong> from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
